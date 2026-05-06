@@ -24,10 +24,9 @@ ExamDescription🐍 Python ExamTests Python programming fundamentals and concept
 
 🛠️ Tech Stack
 
-(Update this section based on your actual stack)
 
 
-Frontend: HTML, CSS, JavaScript
-Backend: Python (Django / Flask) or Node.js
-Database: SQLite / MySQL / PostgreSQL
-Authentication: Session-based / JWT
+Frontend: HTML, CSS, bootstrap
+Backend: Python (Django)
+Database: SQLite 
+Authentication: Session-based 
